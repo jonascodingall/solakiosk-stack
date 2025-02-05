@@ -1,0 +1,6 @@
+[submodule "solakiosk-pb"]
+	path = solakiosk-pb
+	url = https://github.com/jonascodingall/solakiosk-pb
+[submodule "solakiosk"]
+	path = solakiosk
+	url = https://github.com/jonascodingall/solakiosk
